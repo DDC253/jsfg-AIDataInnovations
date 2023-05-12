@@ -3,7 +3,7 @@
 grammar music_play;
 
 public <music_play> =
-(i want to listen to | [can you] (put on | play [me])) <music_entity>;
+(i want to listen to | [can you] (put on | play [me])) <music_entity>; 
 
 
 <music_entity> =
